@@ -1,4 +1,4 @@
 This file is to demonstrate how we can add new files to a repository.
 Now I am modifying file in local by amending contents of file.
-
 Now, I am modifying same Demo file in local . As I have not rebsed my local repo with remote repo, the latest changes available on remote repo is not available for this branch.
+I am amending the contents of file to demonstarate git_merge and test. I will commit the contents of this file for branch _section1 via pull request.
